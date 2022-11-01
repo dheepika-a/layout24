@@ -1,0 +1,482 @@
+   .headera .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+   .logo .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+
+.paritur .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+
+.service .wrapper
+
+{
+	width:80%;
+	margin:auto;
+}
+
+.log  .wrapper
+
+{
+	width:80%;
+	margin:auto;
+}
+.detail .wrapper
+
+{
+	width:80%;
+	margin:auto;
+}
+.website .wrapper
+
+{
+	width:80%;
+	margin:auto;
+}
+.la .wrapper
+
+{
+	width:80%;
+	margin:auto;
+}
+
+.paritura .wrapper
+
+{
+	width:80%;
+	margin:auto;
+}
+.pricing .wrapper
+
+{
+	width:80%;
+	margin:auto;
+}
+
+.headera
+{
+	background-color:beige;
+	height:81px;
+}
+.headera .headera-fc
+{
+	display:flex;
+	justify-content:space-between;
+	
+}
+.headera .headera-fc .heada
+{
+	background-color:rosybrown;
+	height:65px;
+	width:30%;
+	margin-top:10px;
+	
+}
+.headera .headera-fc .hcon
+{
+	background-color:lavender;
+	height:81px;
+	width:50%;
+	display:flex;
+	justify-content:space-evenly;
+	
+}
+.headera .headera-fc .hcon .headb
+{
+	background-color:rosybrown;
+	height:40px;
+	width:15%;
+		margin-top:15px;
+}
+.headera .headera-fc .hcon .headc
+{
+	background-color:rosybrown;
+	height:40px;
+	width:15%;
+	margin-top:15px;
+}
+.headera .headera-fc .hcon .headd
+{
+	background-color:rosybrown;
+	height:40px;
+	width:15%;
+	margin-top:15px;
+}
+.headera .headera-fc .hcon .heade
+{
+	background-color:rosybrown;
+	height:40px;
+	width:15%;
+	margin-top:15px;
+}
+.logo
+{
+		background-color:beige;
+	height:533px;
+}
+.logo .logo-fc
+{
+    display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
+
+.logo .logo-fc .logoa
+{
+
+	background:lightgreen;
+	height:470px;
+	width:50%;
+		display:flex;
+		flex-direction:row;
+		
+	
+}
+
+.logo .logo-fc .logoa .logob
+{
+	background-color:pink;
+	width:60%;
+	margin-top:300px;
+	height:70px;
+}
+
+.logo .logo-fc .logobox
+{
+	background-color:lavender;
+	width:50%;
+	height:470px;
+}
+.paritur
+{
+		background-color:beige;
+		 height:500px;
+}
+
+.paritur .paritur-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+} 
+
+.paritur .paritur-fc .pbox
+{
+    background-color:crimson;
+	width:45%;
+	height:400px;
+	margin-top:25px;
+}
+.paritur .paritur-fc .ptext
+{
+	text-align:center;
+    margin-top:25px;
+	
+	
+} 
+
+.service
+{
+		background-color: lightblue;
+	height:650px;
+}
+.service .service-fc
+
+{
+	display:flex;
+	justify-content:space-between;
+	flex-direction:row;
+	flex-wrap:wrap;
+
+}
+.service .service-fc .ser
+{
+	text-align:center;
+margin-top:50px;
+width:100%
+}
+.service .service-fc .tempa 
+
+{
+	background-color:yellowgreen;
+	height:250px;
+	width:31%;
+	margin-top:15px;
+
+}
+.service .service-fc .tempb
+{
+		background-color:lightpink;
+	height:250px;
+	width:31%;
+	margin-top:15px;
+}
+.service .service-fc .tempc
+{
+background-color:lightpink;
+	height:250px;
+	width:31%;
+	margin-top:15px;
+}
+.service .service-fc .tempd
+{
+background-color:lightpink;
+	height:250px;
+	width:31%;
+	margin-top:15px;
+}
+.service .service-fc .tempe
+{
+background-color:lightpink;
+	height:250px;
+	width:31%;
+	margin-top:15px;
+}
+.service .service-fc .tempf
+{
+background-color:yellowgreen;
+	height:250px;
+	width:31%;
+	margin-top:15px;
+}
+
+.log
+{
+	background-color:blue;
+	height:270px;
+}
+.log .log-fc
+{
+display:flex;
+	flex-direction:column;
+	align-items:center;
+}
+.log .log-fc .logb
+{
+	text-align:center;
+	width:50%;
+	margin-top:60px;
+}
+.log .log-fc .logtext
+{
+	background-color:skyblue;
+	height:50px;
+	width:15%;
+	margin-top:60px;
+}
+
+.la
+{
+	background-color:lightgray;
+	height:200px;
+}
+.la .la-fc
+{
+display:flex;
+	flex-direction:column;
+	justify-content:start-end;
+}
+.la .la-fc.logoab
+{
+	background-color:white;
+	height:100px;
+	width:50%;
+	margin-top:200px;
+}
+
+.la .la-fc .logoatext
+{
+	background-color:white;
+	height:43px;
+	width:15%;
+	margin-top:100px;
+}
+
+.paritura
+{
+		background-color:beige;
+	 height:600px;
+}
+.paritura .paritura-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:center;
+	flex-wrap:wrap;
+} 
+
+.paritura .paritura-fc .bb
+
+{
+background-color:lavender;
+	width:48%;
+	height:550px;
+	margin-top:25px;
+}
+.paritura .paritura-fc .ba
+{
+	background-color:salmon;
+text-align:center;
+	margin-top:25px;
+	width:48%;
+	height:550px;
+	
+} 
+
+.pricing 
+{
+	background-color:lightblue;
+	height:710px;
+}
+.pricing  .pricing-fc
+{
+
+	display:flex;
+	flex-direction:row;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
+}
+.pricing  .pricing-fc .pric
+{
+	text-align:center;
+	width:100%;
+	margin-top:20px;
+}
+.pricing  .pricing-fc .blogtext 
+{
+	text-align:center;
+	width:100%;
+	margin-top:40px;
+}
+.pricing  .pricing-fc .bloga
+{
+	background:pink;
+	height:419px;
+	width:22%;
+		margin-top:40px;
+
+}
+.pricing  .pricing-fc .bloga .blogbut
+{
+	background-color:yellowgreen;
+	width:100%;
+	margin-top:370px;
+	
+}
+
+.pricing  .pricing-fc .blogb
+{
+background:pink;
+	height:419px;
+	width:22%;
+		margin-top:40px;
+}
+.pricing  .pricing-fc .blogb .blogbuta
+{
+	background-color:yellowgreen;
+	width:100%;
+margin-top:370px;
+}
+
+.pricing  .pricing-fc .blogc
+{
+background:pink;
+	height:419px;
+	width:22%;
+		margin-top:40px;
+}
+.pricing  .pricing-fc .blogc .blogbutb
+{
+	background-color:yellowgreen;
+	width:100%;
+	margin-top:370px;
+}
+
+
+.pricing  .pricing-fc .blogd
+{
+	background:pink;
+	height:419px;
+		width:22%;
+		margin-top:40px;
+}
+.pricing  .pricing-fc .blogd .blogbutc
+{
+	background-color:yellowgreen;
+	width:100%;
+	margin-top:370px;
+}
+
+.detail 
+{
+	background-color: deepskyblue ;
+	height:343px;
+}
+.detail .detail-fc
+{
+	display:flex;
+	justify-content:space-between;
+}
+.detail .detail-fc .deta
+{
+		background-color:orange;
+	height:241px;
+		width:22%;
+		margin-top:20px;
+}
+.detail .detail-fc .detb
+{
+	background-color:orange;
+	height:241px;
+			width:22%;
+		margin-top:20px;
+}
+.detail .detail-fc .detc
+{
+	background-color:orange;
+	height:241px;
+			width:22%;
+		margin-top:20px;
+}
+.detail .detail-fc .detd
+{
+	background-color:orange;
+	height:241px;
+			width:22%;
+		margin-top:20px;
+}
+
+.website
+{
+	background-color :yellowgreen;
+	height:100px;
+}
+.website .website-fc
+{
+	display:flex;
+	justify-content:space-between;
+}
+.website .website-fc .copyrighta
+{
+	background-color:mistyrose;
+	width:15%;
+	height:35px;
+	margin-top:50px;
+}
+
+.website .website-fc .copyrightb
+{
+	background-color:mistyrose;
+	width:20%;
+	height:35px;
+	margin-top:50px;
+}
+
